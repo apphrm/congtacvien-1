@@ -13208,7 +13208,7 @@ body {
   color: #2A2E33 !important; }
 
 .header.home {
-  background-color: #b4c16d;
+  background-color: #619f47;
   height: auto !important;
   display: block; }
   .header.home .navbar-brand {
@@ -13282,7 +13282,7 @@ body {
   .header.registration:before {
     position: absolute;
     content: '';
-    background-color: #005A60;
+    background-color: #619f47;
     width: 50%;
     height: 100%;
     left: 0;

@@ -13208,7 +13208,7 @@ body {
   color: #2A2E33 !important; }
 
 .header.home {
-  background-color: #619f47;
+  background-color: #cbd76a;
   height: auto !important;
   display: block; }
   .header.home .navbar-brand {
@@ -13282,7 +13282,7 @@ body {
   .header.registration:before {
     position: absolute;
     content: '';
-    background-color: #619f47;
+    background-color: #cbd76a;
     width: 50%;
     height: 100%;
     left: 0;
@@ -13299,7 +13299,7 @@ body {
     padding: 0; }
     .header.registration .navbar-expand-lg .navbar-nav .nav-item:last-of-type .nav-link:hover {
       background-color: transparent !important;
-      color: #005A60 !important; }
+      color: #5d9db1 !important; }
 
 .registration-mbl-logo {
   display: none; }
@@ -14261,7 +14261,7 @@ video::-webkit-media-controls-panel {
   .registration-area:before {
     position: absolute;
     content: '';
-    background-color: #005A60;
+    background-color: ;
     width: 50%;
     height: 100%;
     left: 0;
@@ -14438,7 +14438,7 @@ video::-webkit-media-controls-panel {
   bottom: 0;
   right: 50%;
   overflow: hidden;
-  background-color: #005A60;
+  background-color: ;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -14496,7 +14496,7 @@ video::-webkit-media-controls-panel {
   background-repeat: no-repeat;
   background-position: center center;
   color: #fff;
-  background-color: #005A60; }
+  background-color: ; }
   .remote-work-section .remote-work-content {
     max-width: 970px; }
     .remote-work-section .remote-work-content p {
@@ -14704,7 +14704,7 @@ video::-webkit-media-controls-panel {
           line-height: 20px !important; } }
 
 .process-left-side {
-  border-right: 10px solid #005A60;
+  border-right: 10px solid ;
   padding: 50px 0;
   position: relative; }
   .process-left-side::before {
@@ -14714,7 +14714,7 @@ video::-webkit-media-controls-panel {
     bottom: 0;
     width: 50px;
     height: 5px;
-    background-color: #005A60; }
+    background-color: #5d9db1; }
   @media (max-width: 767px) {
     .process-left-side {
       border-right: 0;
@@ -14786,7 +14786,7 @@ video::-webkit-media-controls-panel {
 
 @media (max-width: 767px) {
   .process-wrapper {
-    border-left: 10px solid #005A60;
+    border-left: 10px solid ;
     position: relative; }
     .process-wrapper::before {
       position: absolute;
@@ -14795,7 +14795,7 @@ video::-webkit-media-controls-panel {
       bottom: 0;
       width: 50px;
       height: 5px;
-      background-color: #005A60; }
+      background-color: ; }
   .process-right-side {
     padding-bottom: 30px; } }
 
@@ -15027,7 +15027,7 @@ video::-webkit-media-controls-panel {
     .product-item {
       padding: 30px 0; } }
   .product-item .product-view-btn {
-    background: #005A60;
+    background: ;
     border-radius: 50px;
     font-weight: 500;
     font-size: 22px;
@@ -15212,11 +15212,11 @@ body {
   z-index: 32; }
 
 .footer {
-  background-color: #005A60;
+  background-color:#cbd76a;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left bottom;
-  color: #CED8D9;
+  color: #5d9db1;
   font-size: 14px;
   line-height: 17px; }
   @media (max-width: 767px) {

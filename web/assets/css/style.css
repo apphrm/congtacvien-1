@@ -13208,7 +13208,7 @@ body {
   color: #2A2E33 !important; }
 
 .header.home {
-  background-color: #cbd76a;
+  background-color:#6bd53e;
   height: auto !important;
   display: block; }
   .header.home .navbar-brand {
@@ -15212,7 +15212,7 @@ body {
   z-index: 32; }
 
 .footer {
-  background-color:#cbd76a;
+  background-color:#6bd53e;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left bottom;
